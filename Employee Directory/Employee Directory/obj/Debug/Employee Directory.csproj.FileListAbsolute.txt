@@ -1,0 +1,25 @@
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\Employee Directory.exe.config
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\Employee Directory.exe
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\Employee Directory.pdb
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\obj\Debug\Employee Directory.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\obj\Debug\Employee_Directory.MainForm.resources
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\obj\Debug\Employee_Directory.Form2.resources
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\obj\Debug\Employee_Directory.Properties.Resources.resources
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\obj\Debug\Employee Directory.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\obj\Debug\Employee Directory.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\obj\Debug\Employee Directory.exe
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\obj\Debug\Employee Directory.pdb
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\MySql.Data.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\Google.Protobuf.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\Zstandard.Net.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\System.Memory.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\System.Buffers.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\bin\Debug\MySql.Data.xml
+C:\Users\serge\source\repos\Employee Directory\Employee Directory\obj\Debug\Employee Directory.csproj.CopyComplete
